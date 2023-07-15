@@ -1,6 +1,3 @@
-# PoliticaPrivacidad
-Politica de privacidad
-
 <div class="container">
 <div style="background-color: #fff;" class="section-container pricing-cards-container">
 <div style="padding: 150px 0 100px 0!important; max-width: 900px; margin: 30px auto;">
